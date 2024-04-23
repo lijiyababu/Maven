@@ -1,11 +1,12 @@
 package samplepackage;
 
 public class Firstprogram {
-
+	
 	public static void main(String[] args) {
-		
-		// TODO Auto-generated method stub
-		System.out.println("example");
+		int a=12;
+		int b=12;
+		int c = a+b;
+		System.out.println(c);
 	}
 
 }
