@@ -1,8 +1,8 @@
 package superkeyprogram;
 
 public class Childclass extends Superkeyparent {
-	int a =33;
-	int b =40;
+	//int a =33;
+	//int b =40;
 	public Childclass(int a, int b)
 	{
 		super(20, 30);
